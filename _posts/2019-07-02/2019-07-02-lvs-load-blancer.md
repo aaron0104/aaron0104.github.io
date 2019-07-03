@@ -59,3 +59,4 @@ $ sudo route add -host 192.168.8.121 dev ens34:0
 ![图片3](/assets/images/2019-07-02/4.png)
 ![图片4](/assets/images/2019-07-02/5.png)
 
+注：以上配置临时生效，重启后配置失效。
