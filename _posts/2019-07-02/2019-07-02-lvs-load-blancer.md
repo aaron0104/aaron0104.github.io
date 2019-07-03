@@ -2,7 +2,7 @@
 layout: post
 title:  "搭建LVS/DR集群负载均衡"
 categories: 集群
-tags: LVS
+tags: LVS 集群
 author: frank
 ---
 
